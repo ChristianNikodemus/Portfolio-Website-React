@@ -1,34 +1,31 @@
 import React from "react";
+import logo from "./img/logo_v1.png";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
 
 class NavBar extends React.Component {
   render() {
     return (
-      <Navbar bg="light" expand="lg">
-        <Container>
-          <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+      <>
+        <Navbar fixed="top" bg="light">
+          <Container>
+            <Navbar.Brand href="#home">
+              <img
+                src={logo}
+                width="300"
+                height="auto"
+                className="d-inline-block align-top"
+                alt="Christian Nikodemus logo"
+              />
+            </Navbar.Brand>
+            <Nav className="me-2">
               <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#link">Link</Nav.Link>
-              <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">
-                  Another action
-                </NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">
-                  Something
-                </NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">
-                  Separated link
-                </NavDropdown.Item>
-              </NavDropdown>
+              <Nav.Link href="#about">About</Nav.Link>
+              <Nav.Link href="#work">Work</Nav.Link>
+              <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
+          </Container>
+        </Navbar>
+      </>
     );
   }
 }
