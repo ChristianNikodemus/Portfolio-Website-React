@@ -1,14 +1,6 @@
 import React from "react";
 import logo from "./img/logo_v1.png";
-import {
-  Container,
-  Navbar,
-  Nav,
-  NavDropdown,
-  Form,
-  FormControl,
-  Button,
-} from "react-bootstrap";
+import { Container, Navbar, Nav } from "react-bootstrap";
 
 class NavBar extends React.Component {
   render() {
