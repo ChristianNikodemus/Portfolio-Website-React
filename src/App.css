@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.css";
 
+:root {
+  --dark-blue: #374A57;
+  --white: #ffffff;
+}
+
+
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -12,7 +18,7 @@ body {
   /* Sets the font size to 16px */
   line-height: 1.6;
   /* Sets the line-height to 1.6 */
-  color: #374A57;
+  color: var(--dark-blue);
   /* Sets all text color*/
 }
 
@@ -41,8 +47,18 @@ h3 {
 
 }
 
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
 .profile,
-.profile_about {
+.profile_about,
+.profile_contact {
   max-width: 700px;
   margin: 0 auto;
   text-align: center;
@@ -57,18 +73,16 @@ h3 {
   border-radius: 50%;
 }
 
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
 /* .nav-buffer {
   margin-top: 82px;
 } */
+
+.title_banner{
+  background-color: var(--dark-blue);
+  color: var(--white);
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
