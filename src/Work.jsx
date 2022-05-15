@@ -9,8 +9,8 @@ import { Card, ListGroup, Button, Container, Row, Col } from "react-bootstrap";
 class Work extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Work</h1>
+      <>
+        <h1 className="title_banner">Work</h1>
         <Container>
           <Row lg={3} md={2} sm={1} xs={1} className="g-4">
             <Col>
@@ -245,7 +245,7 @@ class Work extends React.Component {
             </Col>
           </Row>
         </Container>
-      </div>
+      </>
     );
   }
 }
