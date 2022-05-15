@@ -5,7 +5,7 @@ import profilePhoto from "./img/Profile_photo.png";
 class Home extends React.Component {
   render() {
     return (
-      <div class="profile nav-buffer">
+      <div class="profile nav-buffer bg-color">
         <img
           src={profilePhoto}
           class="profile_photo"
