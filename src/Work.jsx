@@ -106,7 +106,7 @@ class Work extends React.Component {
                       </Card.Text>
                       <Button
                         variant="outline-primary"
-                        href="https://my-films-client-nrdjnfybp-christiannikodemus.vercel.app/"
+                        href="https://my-films-client.vercel.app/"
                         target="_blank"
                       >
                         Open Project
