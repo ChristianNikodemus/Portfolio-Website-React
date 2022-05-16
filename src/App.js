@@ -6,6 +6,7 @@ import Home from "./Home.jsx";
 import About from "./About.jsx";
 import Work from "./Work.jsx";
 import Contact from "./Contact.jsx";
+import FooterNav from "./FooterNav.jsx";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <About id="#about" />
       <Work id="#work" />
       <Contact />
+      <FooterNav />
     </div>
   );
 }
