@@ -86,16 +86,6 @@ h3 {
   border-radius: 50%;
 }
 
-.work-grid{
-  /* background-color: var(--green); */
-  margin-top: 1.3em;
-  padding-bottom: 1.3em;
-}
-
-.grid-card{
- box-shadow: 1px 1px 4px;
-}
-
 /* .nav-buffer {
   margin-top: 82px;
 } */
@@ -114,6 +104,21 @@ h3 {
 
 .about-github{
   margin-bottom: 2em;
+}
+
+.work-grid{
+  /* background-color: var(--green); */
+  margin-top: 1.3em;
+  padding-bottom: 1.3em;
+}
+
+.grid-card{
+ box-shadow: 1px 1px 4px;
+}
+
+.contact-card{
+  max-width: 18em;
+  margin: 0 auto;
 }
 
 .nav-footer{

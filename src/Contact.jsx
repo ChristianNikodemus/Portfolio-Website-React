@@ -8,8 +8,8 @@ class Contact extends React.Component {
       <>
         <h1 className="title_banner">Contact</h1>
         <div className="profile_contact">
-          <Card>
-            <Fade bottom cascade>
+          <Fade bottom cascade>
+            <Card className="contact-card">
               <Card.Body>
                 <Card.Title>Contact Information</Card.Title>
                 <Card.Text>
@@ -35,8 +35,8 @@ class Contact extends React.Component {
                   Contact Me!
                 </Button>
               </Card.Body>
-            </Fade>
-          </Card>
+            </Card>
+          </Fade>
         </div>
       </>
     );
