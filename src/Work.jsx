@@ -28,7 +28,9 @@ class Work extends React.Component {
                       <Card.Text>
                         A small web application with HTML, CSS, and JavaScript
                         that loads data from an external API and enables the
-                        viewing of data points in detail.
+                        viewing of data points in detail. Through this, I
+                        learned how to use Boostrap, and implement an external
+                        API.
                       </Card.Text>
                       <Button
                         variant="outline-primary"
@@ -69,6 +71,8 @@ class Work extends React.Component {
                         information about different movies, directors, and
                         genres. Users are able to sign up, update their personal
                         information, and create a list of their favorite movies.
+                        Through this, I learned how to create a database ready
+                        to be used by a client-side application.
                       </Card.Text>
 
                       <Button
@@ -102,7 +106,8 @@ class Work extends React.Component {
                       <Card.Text>
                         Using React, I built the client-side for an application
                         called myFilms based on its existing server-side code
-                        (REST API and database).
+                        (REST API and database). Through this, I learned how to
+                        create a front-end react web application using React.
                       </Card.Text>
                       <Button
                         variant="outline-primary"
@@ -144,7 +149,8 @@ class Work extends React.Component {
                         A serverless, progressive web application (PWA) with
                         React using a test-driven development (TDD) technique.
                         The application uses the Google Calendar API to fetch
-                        upcoming events.
+                        upcoming events. Through this, I learned the advantages
+                        of utilizing an API in a React web application.
                       </Card.Text>
                       <Button
                         variant="outline-primary"
@@ -195,7 +201,9 @@ class Work extends React.Component {
                       <Card.Text>
                         A chat app for mobile devices using React Native. The
                         app provides users with a chat interface and options to
-                        share images and their location.
+                        share images and their location. Through this, I learned
+                        the transition to mobile development, and it's
+                        differences from React.
                       </Card.Text>
                       <Button
                         variant="outline-primary"
@@ -230,7 +238,9 @@ class Work extends React.Component {
                         Using Angular, I built the client-side for an
                         application called myFilms based on its existing
                         server-side code (REST API and database), with
-                        supporting documentation.
+                        supporting documentation. Through this, I learned
+                        TypeScript and its advantage of scalability. As well as
+                        how to play into Angular's intricate UI material.
                       </Card.Text>
                       <Button
                         variant="outline-primary"
