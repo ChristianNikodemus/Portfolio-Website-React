@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-website-react/static/css/main.fdf90db0.css",
-    "main.js": "/portfolio-website-react/static/js/main.f09f4529.js",
-    "static/js/787.0b679274.chunk.js": "/portfolio-website-react/static/js/787.0b679274.chunk.js",
-    "static/media/myFilms-Angular-client.png": "/portfolio-website-react/static/media/myFilms-Angular-client.f1032309526bb09cabfe.png",
-    "static/media/myFilms-client-img.png": "/portfolio-website-react/static/media/myFilms-client-img.1c2a0318bfd53df559c8.png",
-    "static/media/DSC00280_16x9.jpg": "/portfolio-website-react/static/media/DSC00280_16x9.1834f67fdcb579b5a4e2.jpg",
-    "static/media/Chatter_Box-img.png": "/portfolio-website-react/static/media/Chatter_Box-img.66b81ddf0cb18a656a6b.png",
-    "static/media/Meet-img.png": "/portfolio-website-react/static/media/Meet-img.d155e7a8a9b0776b2b73.png",
-    "static/media/Simple-indexing-app-img.png": "/portfolio-website-react/static/media/Simple-indexing-app-img.aa581bdd1a6bdb25b7b4.png",
-    "static/media/Profile_photo.png": "/portfolio-website-react/static/media/Profile_photo.d08c9435a80668999acb.png",
-    "static/media/logo_v1.png": "/portfolio-website-react/static/media/logo_v1.a03eea0e70ef5d94dbf8.png",
-    "static/media/github_icon.svg": "/portfolio-website-react/static/media/github_icon.f6615389b4a71ba483542f5ee0305e2b.svg",
-    "static/media/instagram_icon.svg": "/portfolio-website-react/static/media/instagram_icon.5da9f3c8fb1a11bcc547c6f733fa1db8.svg",
-    "index.html": "/portfolio-website-react/index.html",
-    "main.fdf90db0.css.map": "/portfolio-website-react/static/css/main.fdf90db0.css.map",
-    "main.f09f4529.js.map": "/portfolio-website-react/static/js/main.f09f4529.js.map",
-    "787.0b679274.chunk.js.map": "/portfolio-website-react/static/js/787.0b679274.chunk.js.map"
+    "main.css": "/Portfolio-Website-React/static/css/main.fdf90db0.css",
+    "main.js": "/Portfolio-Website-React/static/js/main.1c70bdbf.js",
+    "static/js/787.0b679274.chunk.js": "/Portfolio-Website-React/static/js/787.0b679274.chunk.js",
+    "static/media/myFilms-Angular-client.png": "/Portfolio-Website-React/static/media/myFilms-Angular-client.f1032309526bb09cabfe.png",
+    "static/media/myFilms-client-img.png": "/Portfolio-Website-React/static/media/myFilms-client-img.1c2a0318bfd53df559c8.png",
+    "static/media/DSC00280_16x9.jpg": "/Portfolio-Website-React/static/media/DSC00280_16x9.1834f67fdcb579b5a4e2.jpg",
+    "static/media/Chatter_Box-img.png": "/Portfolio-Website-React/static/media/Chatter_Box-img.66b81ddf0cb18a656a6b.png",
+    "static/media/Meet-img.png": "/Portfolio-Website-React/static/media/Meet-img.d155e7a8a9b0776b2b73.png",
+    "static/media/Simple-indexing-app-img.png": "/Portfolio-Website-React/static/media/Simple-indexing-app-img.aa581bdd1a6bdb25b7b4.png",
+    "static/media/Profile_photo.png": "/Portfolio-Website-React/static/media/Profile_photo.d08c9435a80668999acb.png",
+    "static/media/logo_v1.png": "/Portfolio-Website-React/static/media/logo_v1.a03eea0e70ef5d94dbf8.png",
+    "static/media/github_icon.svg": "/Portfolio-Website-React/static/media/github_icon.f6615389b4a71ba483542f5ee0305e2b.svg",
+    "static/media/instagram_icon.svg": "/Portfolio-Website-React/static/media/instagram_icon.5da9f3c8fb1a11bcc547c6f733fa1db8.svg",
+    "index.html": "/Portfolio-Website-React/index.html",
+    "main.fdf90db0.css.map": "/Portfolio-Website-React/static/css/main.fdf90db0.css.map",
+    "main.1c70bdbf.js.map": "/Portfolio-Website-React/static/js/main.1c70bdbf.js.map",
+    "787.0b679274.chunk.js.map": "/Portfolio-Website-React/static/js/787.0b679274.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdf90db0.css",
-    "static/js/main.f09f4529.js"
+    "static/js/main.1c70bdbf.js"
   ]
 }
