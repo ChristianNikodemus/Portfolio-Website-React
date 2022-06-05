@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Table, Card } from "react-bootstrap";
+import { Button, Card } from "react-bootstrap";
 import { Fade } from "react-reveal";
 
 class Contact extends React.Component {

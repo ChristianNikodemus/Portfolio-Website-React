@@ -9,23 +9,29 @@ import About from "./About.jsx";
 import Work from "./Work.jsx";
 import Contact from "./Contact.jsx";
 import FooterNav from "./FooterNav.jsx";
+import { ParallaxProvider } from "react-scroll-parallax";
 
 function App() {
   return (
-    <div className="App">
-      <NavBar />
-      <div
-        id="home"
-        className="App-main"
-        style={{ backgroundImage: `url(${bgImage})`, backgroundSize: "cover" }}
-      >
-        <Home />
+    <ParallaxProvider>
+      <div className="App">
+        <NavBar />
+        <div
+          id="home"
+          className="App-main"
+          style={{
+            backgroundImage: `url(${bgImage})`,
+            backgroundSize: "cover",
+          }}
+        >
+          <Home />
+        </div>
+        <About />
+        <Work />
+        <Contact />
+        <FooterNav />
       </div>
-      <About />
-      <Work />
-      <Contact />
-      <FooterNav />
-    </div>
+    </ParallaxProvider>
   );
 }
 
