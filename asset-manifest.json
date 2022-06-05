@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website-React/static/css/main.fdf90db0.css",
-    "main.js": "/Portfolio-Website-React/static/js/main.0dd18f09.js",
+    "main.js": "/Portfolio-Website-React/static/js/main.ae0bdaa6.js",
     "static/js/787.0b679274.chunk.js": "/Portfolio-Website-React/static/js/787.0b679274.chunk.js",
     "static/media/myFilms-Angular-client.png": "/Portfolio-Website-React/static/media/myFilms-Angular-client.f1032309526bb09cabfe.png",
     "static/media/myFilms-client-img.png": "/Portfolio-Website-React/static/media/myFilms-client-img.1c2a0318bfd53df559c8.png",
@@ -15,11 +15,11 @@
     "static/media/instagram_icon.svg": "/Portfolio-Website-React/static/media/instagram_icon.5da9f3c8fb1a11bcc547c6f733fa1db8.svg",
     "index.html": "/Portfolio-Website-React/index.html",
     "main.fdf90db0.css.map": "/Portfolio-Website-React/static/css/main.fdf90db0.css.map",
-    "main.0dd18f09.js.map": "/Portfolio-Website-React/static/js/main.0dd18f09.js.map",
+    "main.ae0bdaa6.js.map": "/Portfolio-Website-React/static/js/main.ae0bdaa6.js.map",
     "787.0b679274.chunk.js.map": "/Portfolio-Website-React/static/js/787.0b679274.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdf90db0.css",
-    "static/js/main.0dd18f09.js"
+    "static/js/main.ae0bdaa6.js"
   ]
 }
