@@ -11,7 +11,9 @@ class Work extends React.Component {
   render() {
     return (
       <>
-        <h1 className="title_banner">Work</h1>
+        <h1 className="title_banner" id="work">
+          Work
+        </h1>
         <div className="work-grid">
           <Container>
             <Row lg={3} md={2} sm={1} xs={1} className="g-4">

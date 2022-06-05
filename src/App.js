@@ -15,14 +15,15 @@ function App() {
     <div className="App">
       <NavBar />
       <div
+        id="home"
         className="App-main"
         style={{ backgroundImage: `url(${bgImage})`, backgroundSize: "cover" }}
       >
-        <Home id="homeContainer" />
+        <Home />
       </div>
-      <About id="aboutContainer" />
-      <Work id="workContainer" />
-      <Contact id="contactContainer" />
+      <About />
+      <Work />
+      <Contact />
       <FooterNav />
     </div>
   );

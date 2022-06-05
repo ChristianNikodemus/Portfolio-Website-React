@@ -6,7 +6,9 @@ class About extends React.Component {
   render() {
     return (
       <>
-        <h1 className="title_banner">About Me</h1>
+        <h1 className="title_banner" id="about">
+          About Me
+        </h1>
 
         <div className="about-container">
           <div className="profile_about">

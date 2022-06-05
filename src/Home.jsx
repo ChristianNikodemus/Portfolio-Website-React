@@ -23,7 +23,7 @@ class Home extends React.Component {
                 developer from Toronto, Canada.
               </p>
 
-              <a href="work.html">Take a look at some of my code projects!</a>
+              <a href="#work">Take a look at some of my code projects!</a>
             </div>
           </div>
         </div>

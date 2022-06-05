@@ -6,7 +6,9 @@ class Contact extends React.Component {
   render() {
     return (
       <>
-        <h1 className="title_banner">Contact</h1>
+        <h1 className="title_banner" id="contact">
+          Contact
+        </h1>
         <div className="profile_contact">
           <Fade bottom cascade>
             <Card className="contact-card">
