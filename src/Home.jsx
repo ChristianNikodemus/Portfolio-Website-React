@@ -22,7 +22,7 @@ class Home extends React.Component {
 
                 <p>
                   My name is Christian Nikodemus. I am a <span>web</span>{" "}
-                  developer from Toronto, Canada.
+                  designer and developer from Toronto, Canada.
                 </p>
 
                 <a href="#work">Take a look at some of my code projects!</a>
